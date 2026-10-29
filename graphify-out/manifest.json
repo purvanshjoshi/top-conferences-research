@@ -1,0 +1,212 @@
+{
+  "top-conferences-research/INDEX.md": {
+    "mtime": 1793297312.981668,
+    "seen": 1793297594.2671795,
+    "ast_hash": "f23859e7c86d0b43248ccc7005e46f4a",
+    "semantic_hash": "f23859e7c86d0b43248ccc7005e46f4a"
+  },
+  "top-conferences-research/aaai.md": {
+    "mtime": 1793297312.981668,
+    "seen": 1793297594.2671795,
+    "ast_hash": "90cfe691c48e6c9f0363e1dbc5ccb363",
+    "semantic_hash": "90cfe691c48e6c9f0363e1dbc5ccb363"
+  },
+  "top-conferences-research/acl.md": {
+    "mtime": 1793297312.981668,
+    "seen": 1793297594.2671795,
+    "ast_hash": "c1bd4bac5bbfe924fcd495a29f9f5b2e",
+    "semantic_hash": "c1bd4bac5bbfe924fcd495a29f9f5b2e"
+  },
+  "top-conferences-research/ase.md": {
+    "mtime": 1793297312.982663,
+    "seen": 1793297594.2671795,
+    "ast_hash": "113d8552f9248cf882b8235b13813791",
+    "semantic_hash": "113d8552f9248cf882b8235b13813791"
+  },
+  "top-conferences-research/ccs.md": {
+    "mtime": 1793297312.9831772,
+    "seen": 1793297594.2671795,
+    "ast_hash": "2faa4e2ac46a62e0e9171dfa5cc61324",
+    "semantic_hash": "2faa4e2ac46a62e0e9171dfa5cc61324"
+  },
+  "top-conferences-research/chi.md": {
+    "mtime": 1793297312.9831772,
+    "seen": 1793297594.2671795,
+    "ast_hash": "f51ab6f0f6d1a7adf7301d1d0ae92699",
+    "semantic_hash": "f51ab6f0f6d1a7adf7301d1d0ae92699"
+  },
+  "top-conferences-research/cvpr.md": {
+    "mtime": 1793297312.9831772,
+    "seen": 1793297594.2671795,
+    "ast_hash": "243715c7807ebafb51f598bcffdee72f",
+    "semantic_hash": "243715c7807ebafb51f598bcffdee72f"
+  },
+  "top-conferences-research/eccv.md": {
+    "mtime": 1793297312.9846463,
+    "seen": 1793297594.2671795,
+    "ast_hash": "20d9e1a3f980db4ec47296944edba586",
+    "semantic_hash": "20d9e1a3f980db4ec47296944edba586"
+  },
+  "top-conferences-research/emnlp.md": {
+    "mtime": 1793297312.9846463,
+    "seen": 1793297594.2671795,
+    "ast_hash": "9da5b2710849eb9cddd3738fecb67b23",
+    "semantic_hash": "9da5b2710849eb9cddd3738fecb67b23"
+  },
+  "top-conferences-research/focs.md": {
+    "mtime": 1793297312.9846463,
+    "seen": 1793297594.2671795,
+    "ast_hash": "c76881ab12043916bfbdcd8c2c6e23a5",
+    "semantic_hash": "c76881ab12043916bfbdcd8c2c6e23a5"
+  },
+  "top-conferences-research/fse.md": {
+    "mtime": 1793297312.9846463,
+    "seen": 1793297594.2671795,
+    "ast_hash": "2a727148171b3c3a99dda2df490b0d60",
+    "semantic_hash": "2a727148171b3c3a99dda2df490b0d60"
+  },
+  "top-conferences-research/iccv.md": {
+    "mtime": 1793297312.9856615,
+    "seen": 1793297594.2671795,
+    "ast_hash": "33fd20e2426d216be3269be1ad2e35c9",
+    "semantic_hash": "33fd20e2426d216be3269be1ad2e35c9"
+  },
+  "top-conferences-research/icde.md": {
+    "mtime": 1793297312.9856615,
+    "seen": 1793297594.2671795,
+    "ast_hash": "4ab3f4d1ef989dee397d8e9d3c11a60c",
+    "semantic_hash": "4ab3f4d1ef989dee397d8e9d3c11a60c"
+  },
+  "top-conferences-research/iclr.md": {
+    "mtime": 1793297312.986243,
+    "seen": 1793297594.2671795,
+    "ast_hash": "e5065538aff9e42f80d0005b5644cae7",
+    "semantic_hash": "e5065538aff9e42f80d0005b5644cae7"
+  },
+  "top-conferences-research/icml.md": {
+    "mtime": 1793297312.986243,
+    "seen": 1793297594.2671795,
+    "ast_hash": "102fb7b347126bea71a4eb86f5421646",
+    "semantic_hash": "102fb7b347126bea71a4eb86f5421646"
+  },
+  "top-conferences-research/icse.md": {
+    "mtime": 1793297312.986243,
+    "seen": 1793297594.2671795,
+    "ast_hash": "6c212160636800d3edcf4aa50e3d4307",
+    "semantic_hash": "6c212160636800d3edcf4aa50e3d4307"
+  },
+  "top-conferences-research/ijcai.md": {
+    "mtime": 1793297312.986243,
+    "seen": 1793297594.2671795,
+    "ast_hash": "b4d573c1958798716f7592b4c428f290",
+    "semantic_hash": "b4d573c1958798716f7592b4c428f290"
+  },
+  "top-conferences-research/isca.md": {
+    "mtime": 1793297312.9872687,
+    "seen": 1793297594.2671795,
+    "ast_hash": "34a2f219a58b9cf4a50dc638ce925f81",
+    "semantic_hash": "34a2f219a58b9cf4a50dc638ce925f81"
+  },
+  "top-conferences-research/kdd.md": {
+    "mtime": 1793297312.9872687,
+    "seen": 1793297594.2671795,
+    "ast_hash": "0c3040c9b9353a008968bfa96c564dfe",
+    "semantic_hash": "0c3040c9b9353a008968bfa96c564dfe"
+  },
+  "top-conferences-research/micro.md": {
+    "mtime": 1793297312.9872687,
+    "seen": 1793297594.2671795,
+    "ast_hash": "e03cf767b8f2c3b9f01f5b571ece70aa",
+    "semantic_hash": "e03cf767b8f2c3b9f01f5b571ece70aa"
+  },
+  "top-conferences-research/naacl.md": {
+    "mtime": 1793297312.9880037,
+    "seen": 1793297594.2671795,
+    "ast_hash": "3e9f9716666d11060bd5f84250395fad",
+    "semantic_hash": "3e9f9716666d11060bd5f84250395fad"
+  },
+  "top-conferences-research/ndss.md": {
+    "mtime": 1793297312.9880037,
+    "seen": 1793297594.2671795,
+    "ast_hash": "bab9537d9c5654c0210bf4408053c0db",
+    "semantic_hash": "bab9537d9c5654c0210bf4408053c0db"
+  },
+  "top-conferences-research/neurips.md": {
+    "mtime": 1793297312.9880037,
+    "seen": 1793297594.2671795,
+    "ast_hash": "50373419b505f6ac4c67e40617213824",
+    "semantic_hash": "50373419b505f6ac4c67e40617213824"
+  },
+  "top-conferences-research/nsdi.md": {
+    "mtime": 1793297312.9880037,
+    "seen": 1793297594.2671795,
+    "ast_hash": "61a519042c4130c7264e1db425749a3a",
+    "semantic_hash": "61a519042c4130c7264e1db425749a3a"
+  },
+  "top-conferences-research/osdi.md": {
+    "mtime": 1793297312.9880037,
+    "seen": 1793297594.2671795,
+    "ast_hash": "38159d49047bf98e582a7dfd0d575b3b",
+    "semantic_hash": "38159d49047bf98e582a7dfd0d575b3b"
+  },
+  "top-conferences-research/sigcomm.md": {
+    "mtime": 1793297312.9890258,
+    "seen": 1793297594.2671795,
+    "ast_hash": "1755d5c54f1efde77ebd163b249d8b95",
+    "semantic_hash": "1755d5c54f1efde77ebd163b249d8b95"
+  },
+  "top-conferences-research/sigir.md": {
+    "mtime": 1793297312.9890258,
+    "seen": 1793297594.2671795,
+    "ast_hash": "bd0d90323012fc3ef00cb4cbba01d148",
+    "semantic_hash": "bd0d90323012fc3ef00cb4cbba01d148"
+  },
+  "top-conferences-research/sigmod.md": {
+    "mtime": 1793297312.9890258,
+    "seen": 1793297594.2671795,
+    "ast_hash": "826911f8833d0bfb249593bdebf30901",
+    "semantic_hash": "826911f8833d0bfb249593bdebf30901"
+  },
+  "top-conferences-research/sosp.md": {
+    "mtime": 1793297312.9890258,
+    "seen": 1793297594.2671795,
+    "ast_hash": "f549487b31652a447011f11df7655b62",
+    "semantic_hash": "f549487b31652a447011f11df7655b62"
+  },
+  "top-conferences-research/sp.md": {
+    "mtime": 1793297312.9900298,
+    "seen": 1793297594.2671795,
+    "ast_hash": "e822282629822931e1f6eabf366b6620",
+    "semantic_hash": "e822282629822931e1f6eabf366b6620"
+  },
+  "top-conferences-research/stoc.md": {
+    "mtime": 1793297312.9900298,
+    "seen": 1793297594.2671795,
+    "ast_hash": "5569178fcb7d8b8ff158fabcdb2e2f76",
+    "semantic_hash": "5569178fcb7d8b8ff158fabcdb2e2f76"
+  },
+  "top-conferences-research/uist.md": {
+    "mtime": 1793297312.9900298,
+    "seen": 1793297594.2671795,
+    "ast_hash": "a57ecc0548235b9fedb7150825d48b42",
+    "semantic_hash": "a57ecc0548235b9fedb7150825d48b42"
+  },
+  "top-conferences-research/usenix-security.md": {
+    "mtime": 1793297312.9900298,
+    "seen": 1793297594.2671795,
+    "ast_hash": "b6a69b069c83a9b9c743a2b00df6948a",
+    "semantic_hash": "b6a69b069c83a9b9c743a2b00df6948a"
+  },
+  "top-conferences-research/vldb.md": {
+    "mtime": 1793297312.9900298,
+    "seen": 1793297594.2671795,
+    "ast_hash": "289f230b8cd0a5fbbd9dd078516b9490",
+    "semantic_hash": "289f230b8cd0a5fbbd9dd078516b9490"
+  },
+  "top-conferences-research/www.md": {
+    "mtime": 1793297312.9910498,
+    "seen": 1793297594.2671795,
+    "ast_hash": "e1667f517da65e987b5db54f20a3c713",
+    "semantic_hash": "e1667f517da65e987b5db54f20a3c713"
+  }
+}
