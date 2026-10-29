@@ -20,20 +20,21 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | 40th Annual Conference (NeurIPS 2026) |
-| **Dates** | December 6–12, 2026 |
-| **Location** | Multi-site: Sydney, Australia (Main) · Atlanta, GA, USA · Paris, France (Satellites) |
-| **Website** | [neurips.cc/Conferences/2026](https://neurips.cc/Conferences/2026) |
+| **Edition** | NeurIPS 2026 |
+| **Dates** | Early-mid December 2026 (multi-site; Sydney, Atlanta and Paris sites run roughly Dec 6-13, per-site daily schedule on the official dates page) |
+| **Location** | Sydney, Australia (main site), with satellite sites in Atlanta, USA and Paris, France |
+| **Website** | neurips.cc |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | May 4, 2026 *(passed)* |
-| Full Paper Submission | May 6, 2026 *(passed)* |
-| Supplementary Material Deadline | May 13, 2026 *(passed)* |
-| Notification of Acceptance | September 24, 2026 |
-| Camera-Ready Deadline | ~October 2026 (TBA) |
+| Abstract Deadline | May 4 2026 AoE (passed) |
+| Full Paper Submission | May 6 2026 AoE (passed) |
+| Notification of Acceptance | Sep 24 2026 AoE (passed) |
+| Camera-Ready Deadline | TBA (not listed on the official dates page as of Oct 2026) |
+
+*Source: https://neurips.cc/Conferences/2026/Dates*
 
 ## 📝 Paper Format Requirements
 
@@ -116,4 +117,4 @@
 8. **Dual submission policy**: Papers under review at other venues are generally not allowed
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

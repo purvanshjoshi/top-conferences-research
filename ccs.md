@@ -20,19 +20,22 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | 2027 Edition |
-| **Dates** | October 2027 |
-| **Location** | Atlanta, USA |
-| **Website** | https://sigsac.org/ccs/CCS2027/ |
+| **Edition** | ACM CCS 2026 (upcoming). Following edition: CCS 2027 |
+| **Dates** | CCS 2026: November 15-19, 2026 · CCS 2027: October 11-15, 2027 |
+| **Location** | CCS 2026: The World Forum, The Hague, Netherlands · CCS 2027: Atlanta, USA |
+| **Website** | https://www.sigsac.org/ccs/CCS2026/ · https://sigsac.org/ccs/CCS2027/ |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | TBA |
-| Full Paper Submission | Multi-cycle (January and April cycles usually) |
-| Notification of Acceptance | TBA |
-| Camera-Ready Deadline | TBA |
+| CCS 2026 Cycle A Abstract / Paper | Jan 7, 2026 / Jan 14, 2026 (passed) |
+| CCS 2026 Cycle B Abstract / Paper | Apr 22, 2026 / Apr 29, 2026 (passed) |
+| CCS 2026 Cycle B Notification | July 17, 2026 (passed) |
+| CCS 2026 Cycle B Camera-Ready | Sept 13, 2026 (passed) |
+| CCS 2027 Abstract / Paper Deadlines | TBA (not yet announced as of Oct 2026; CCS 2027 site says "Coming Soon") |
+
+*Source: https://sigsac.org/ccs/CCS2026/call-for/call-for-papers.html ; https://sigsac.org/ccs/CCS2027/*
 
 ## 📝 Paper Format Requirements
 
@@ -76,4 +79,4 @@
 Comprehensive evaluation and robust methodological approaches. Emphasize impact on computer and communication systems.
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

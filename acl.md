@@ -20,19 +20,21 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | ACL 2027 (65th) |
-| **Dates** | August 17-22 2027 |
-| **Location** | Kyoto Japan |
+| **Edition** | ACL 2027 (65th Annual Meeting) |
+| **Dates** | August 17-22, 2027 (tutorials Aug 17; workshops Aug 18-19; main conference Aug 20-22) |
+| **Location** | Kyoto, Japan |
 | **Website** | 2027.aclweb.org |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | N/A (ARR Process) |
-| Full Paper Submission | ARR final cycle for ACL is Jan 2027 |
+| Abstract Deadline | N/A (ARR submission) |
+| Full Paper Submission | Jan 4 2027 (ARR deadline, 11:59 pm UTC-12) |
 | Notification of Acceptance | TBA |
 | Camera-Ready Deadline | TBA |
+
+*Source: https://2027.aclweb.org/*
 
 ## 📝 Paper Format Requirements
 
@@ -76,4 +78,4 @@ Acceptance rates hover at 20-24% after the ARR review phase.
 Thoroughly review previous ACL Anthology papers. Linguistic insights combined with strong empirical results are favored. Submit early to ARR to ensure you can commit to ACL.
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

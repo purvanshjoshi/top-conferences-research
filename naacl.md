@@ -21,18 +21,20 @@
 | Field | Details |
 |---|---|
 | **Edition** | NAACL 2027 |
-| **Dates** | June 1-5 2027 |
-| **Location** | San Francisco CA USA |
+| **Dates** | June 1-5, 2027 |
+| **Location** | San Francisco, California, USA |
 | **Website** | 2027.naacl.org |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| ARR Submission | Oct 12 2026 |
-| Commitment Deadline | Dec 23 2026 |
+| Abstract Deadline | N/A (ARR submission) |
+| Full Paper Submission | Oct 12 2026 (ARR deadline, passed); NAACL commitment deadline Dec 23 2026 |
 | Notification of Acceptance | Feb 10 2027 |
-| Camera-Ready Deadline | TBA |
+| Camera-Ready Deadline | Mar 3 2027 |
+
+*Source: https://2027.naacl.org/calls/main_conference_papers/*
 
 ## 📝 Paper Format Requirements
 
@@ -70,4 +72,4 @@ Consistent 20-25% acceptance rate.
 An excellent venue for both fundamental computational linguistics and practical NLP applications. The industry track is highly regarded for applied work.
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

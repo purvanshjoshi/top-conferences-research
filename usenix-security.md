@@ -20,8 +20,8 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | 36th |
-| **Dates** | August 11-13 2027 |
+| **Edition** | USENIX Security 2027 (36th USENIX Security Symposium) |
+| **Dates** | August 11-13, 2027 |
 | **Location** | Denver, CO, USA |
 | **Website** | https://usenix.org/conference/usenixsecurity27 |
 
@@ -29,10 +29,14 @@
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | Jan 19, 2027 (Cycle 2 registration) |
-| Full Paper Submission | Jan 26, 2027 (Cycle 2) |
-| Notification of Acceptance | TBA |
-| Camera-Ready Deadline | TBA |
+| Cycle 1 Registration / Submission | Aug 18, 2026 / Aug 25, 2026 (passed) |
+| Cycle 1 Notification / Final Papers | Dec 3, 2026 / Jan 14, 2027 |
+| Cycle 2 Abstract (Mandatory Registration) | Jan 19, 2027 |
+| Cycle 2 Full Paper Submission | Jan 26, 2027 |
+| Cycle 2 Notification of Acceptance | May 6, 2027 |
+| Cycle 2 Camera-Ready (Final Papers) | June 3, 2027 |
+
+*Source: https://www.usenix.org/conference/usenixsecurity27/call-for-papers (preliminary CFP; all deadlines AoE)*
 
 ## 📝 Paper Format Requirements
 
@@ -77,4 +81,4 @@
 Highly applied security and strong evaluation. Include clear threat models and responsible disclosure when applicable.
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

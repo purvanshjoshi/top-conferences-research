@@ -20,19 +20,21 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | 43rd |
+| **Edition** | ICDE 2027 (43rd) |
 | **Dates** | May 17-21 2027 |
 | **Location** | Copenhagen, Denmark |
-| **Website** | via IEEE/TCDE |
+| **Website** | https://icde2027.github.io |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | Usually Fall (October/November) |
-| Full Paper Submission | Usually Fall |
-| Notification of Acceptance | TBA |
-| Camera-Ready Deadline | TBA |
+| Abstract Deadline | No separate abstract deadline listed |
+| Full Paper Submission | Round 1: Jun 11 2026 (passed); Round 2: Nov 11 2026 (5:00 PM PT) |
+| Notification of Acceptance | Round 1: Sep 10 2026 (passed); Round 2: Feb 10 2027 (approximate); rebuttal Jan 8-15 2027; no revisions |
+| Camera-Ready Deadline | Round 1: Oct 10 2026 (passed); Round 2: Mar 10 2027 |
+
+*Source: https://icde2027.github.io/cf-research-papers.html*
 
 ## 📝 Paper Format Requirements
 
@@ -78,4 +80,4 @@
 ICDE embraces a broad range of data engineering topics. Highlight the practical implementation and engineering value of your data systems.
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

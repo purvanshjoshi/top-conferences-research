@@ -2,7 +2,7 @@
 
 > **A comprehensive guide to 34 top-tier academic conferences across Computer Science, AI/ML, Systems, Security, Databases, HCI, Software Engineering, Theory, Architecture, and Information Retrieval.**
 >
-> *Last updated: September 2026*
+> *Last updated: October 2026*
 
 ---
 
@@ -28,11 +28,11 @@ Click on any conference name below to view its detailed page.
 
 | # | Conference | Next Edition | Location | Deadline | Acceptance Rate | Ranking |
 |---|---|---|---|---|---|---|
-| 1 | [**NeurIPS**](./neurips.md) | Dec 6–12, 2026 | Sydney, Australia | May 2026 *(passed)* | 26–28% | CORE A*, CCF A |
-| 2 | [**ICML**](./icml.md) | July 2027 | TBA | ~Jan 2027 | 26–28% | CORE A*, CCF A |
-| 3 | [**ICLR**](./iclr.md) | Apr 26–30, 2027 | California, USA | Sep 25, 2026 | 28–32% | CORE A* |
-| 4 | [**AAAI**](./aaai.md) | Feb 16–23, 2027 | Montréal, Canada | Jul 2026 *(passed)* | 20–23% | CORE A*, CCF A |
-| 5 | [**IJCAI**](./ijcai.md) | Aug 2027 | TBA | ~Jan 2027 | 15–20% | CORE A*, CCF A |
+| 1 | [**NeurIPS**](./neurips.md) | Early–mid Dec 2026 (sites ~Dec 6–13) | Sydney, Australia (+ Atlanta, Paris sites) | May 2026 *(passed)* | 26–28% | CORE A*, CCF A |
+| 2 | [**ICML**](./icml.md) | 2027 (dates TBA) | South America (city TBA) | ~Jan 2027 *(unconfirmed)* | 26–28% | CORE A*, CCF A |
+| 3 | [**ICLR**](./iclr.md) | Apr 26–30, 2027 | California, USA (city TBA) | Sep 25, 2026 *(passed)* | 28–32% | CORE A* |
+| 4 | [**AAAI**](./aaai.md) | Feb 16–23, 2027 | Montréal, Canada | Jul 28, 2026 *(passed)* | 20–23% | CORE A*, CCF A |
+| 5 | [**IJCAI**](./ijcai.md) | Aug 7–13, 2027 (Kyoto); Aug 15–17 (Hengqin) | Kyoto, Japan & Hengqin, China | ~Jan 2027 *(unconfirmed)* | 15–20% | CORE A*, CCF A |
 
 ---
 
@@ -40,9 +40,9 @@ Click on any conference name below to view its detailed page.
 
 | # | Conference | Next Edition | Location | Deadline | Acceptance Rate | Ranking |
 |---|---|---|---|---|---|---|
-| 6 | [**CVPR**](./cvpr.md) | Jun 20–24, 2027 | Seattle, WA, USA | ~Nov 2026 | 25–28% | CORE A*, CCF A |
-| 7 | [**ECCV**](./eccv.md) | Sep 8–12, 2026 | Malmö, Sweden | Mar 2026 *(passed)* | 25–28% | CORE A, CCF B |
-| 8 | [**ICCV**](./iccv.md) | Oct 2–8, 2027 | Hong Kong | ~Mar 2027 | 25–28% | CORE A*, CCF A |
+| 6 | [**CVPR**](./cvpr.md) | Jun 20–25, 2027 | Seattle, WA, USA | Nov 16, 2026 (abstract Nov 10) | 25–28% | CORE A*, CCF A |
+| 7 | [**ECCV**](./eccv.md) | ECCV 2028 (2026 edition finished) — TBA | TBA | TBA | 25–28% | CORE A, CCF B |
+| 8 | [**ICCV**](./iccv.md) | Oct 3–7, 2027 | Hong Kong | ~Mar 2027 *(unconfirmed)* | 25–28% | CORE A*, CCF A |
 
 ---
 
@@ -50,9 +50,9 @@ Click on any conference name below to view its detailed page.
 
 | # | Conference | Next Edition | Location | Deadline | Acceptance Rate | Ranking |
 |---|---|---|---|---|---|---|
-| 9 | [**ACL**](./acl.md) | Aug 17–22, 2027 | Kyoto, Japan | ARR ~Jan 2027 | 20–24% | CORE A*, CCF A |
-| 10 | [**EMNLP**](./emnlp.md) | Oct 24–29, 2026 | Budapest, Hungary | ARR May 2026 *(passed)* | 20–25% | CORE A, CCF B |
-| 11 | [**NAACL**](./naacl.md) | Jun 1–5, 2027 | San Francisco, CA, USA | ARR Oct 12, 2026 | 20–25% | CORE A, CCF C |
+| 9 | [**ACL**](./acl.md) | Aug 17–22, 2027 | Kyoto, Japan | ARR Jan 4, 2027 | 20–24% | CORE A*, CCF A |
+| 10 | [**EMNLP**](./emnlp.md) | EMNLP 2027 (2026 edition finished) — TBA | TBA | TBA | 20–25% | CORE A, CCF B |
+| 11 | [**NAACL**](./naacl.md) | Jun 1–5, 2027 | San Francisco, CA, USA | ARR Oct 12, 2026 *(passed)* | 20–25% | CORE A, CCF C |
 
 ---
 
@@ -60,10 +60,10 @@ Click on any conference name below to view its detailed page.
 
 | # | Conference | Next Edition | Location | Deadline | Acceptance Rate | Ranking |
 |---|---|---|---|---|---|---|
-| 12 | [**SOSP**](./sosp.md) | Sep 29–Oct 2, 2026 | Prague, Czechia | Spring 2026 | 16–18% | CORE A*, CCF A |
-| 13 | [**OSDI**](./osdi.md) | Jul 7–9, 2027 | Baltimore, MD, USA | Dec 8, 2026 | 18–20% | CORE A*, CCF A |
-| 14 | [**SIGCOMM**](./sigcomm.md) | Aug 8–12, 2027 | Bangkok, Thailand | ~Jan/Feb 2027 | 15–20% | CORE A*, CCF A |
-| 15 | [**NSDI**](./nsdi.md) | May 11–13, 2027 | Providence, RI, USA | Sep 10, 2026 | 16–20% | CORE A*, CCF A |
+| 12 | [**SOSP**](./sosp.md) | SOSP 2027 (2026 edition finished) — TBA | TBA | ~Spring 2027 *(unconfirmed)* | 16–18% | CORE A*, CCF A |
+| 13 | [**OSDI**](./osdi.md) | Jul 7–9, 2027 | Baltimore, MD, USA | Dec 8, 2026 (abstract Dec 1) | 18–20% | CORE A*, CCF A |
+| 14 | [**SIGCOMM**](./sigcomm.md) | Aug 8–12, 2027 | Bangkok, Thailand | Feb 2, 2027 | 15–20% | CORE A*, CCF A |
+| 15 | [**NSDI**](./nsdi.md) | May 11–13, 2027 | Providence, RI, USA | Sep 17, 2026 *(passed)* | 16–20% | CORE A*, CCF A |
 
 ---
 
@@ -71,10 +71,10 @@ Click on any conference name below to view its detailed page.
 
 | # | Conference | Next Edition | Location | Deadline | Acceptance Rate | Ranking |
 |---|---|---|---|---|---|---|
-| 16 | [**IEEE S&P**](./sp.md) | May 17–19, 2027 | Montreal, Canada | Nov 18, 2026 | 13–15% | CORE A*, CCF A |
-| 17 | [**USENIX Security**](./usenix-security.md) | Aug 11–13, 2027 | Denver, CO, USA | Jan 26, 2027 | 16–18% | CORE A*, CCF A |
-| 18 | [**CCS**](./ccs.md) | Oct 2027 | Atlanta, USA | Multi-cycle | 17–19% | CORE A*, CCF A |
-| 19 | [**NDSS**](./ndss.md) | Mar 22–26, 2027 | Seoul, South Korea | Summer/Fall cycles | 15–18% | CORE A*, CCF A |
+| 16 | [**IEEE S&P**](./sp.md) | May 17–19, 2027 | Montreal, Canada | Nov 17, 2026 (abstract Nov 10) | 13–15% | CORE A*, CCF A |
+| 17 | [**USENIX Security**](./usenix-security.md) | Aug 11–13, 2027 | Denver, CO, USA | Jan 26, 2027 (registration Jan 19) | 16–18% | CORE A*, CCF A |
+| 18 | [**CCS**](./ccs.md) | Nov 15–19, 2026 (CCS 2026); Oct 11–15, 2027 (CCS 2027) | The Hague, Netherlands (2026); Atlanta, USA (2027) | 2027 deadlines TBA | 17–19% | CORE A*, CCF A |
+| 19 | [**NDSS**](./ndss.md) | Mar 22–26, 2027 | Seoul, South Korea | Fall cycle Aug 19, 2026 *(passed)* | 15–18% | CORE A*, CCF A |
 
 ---
 
@@ -82,9 +82,9 @@ Click on any conference name below to view its detailed page.
 
 | # | Conference | Next Edition | Location | Deadline | Acceptance Rate | Ranking |
 |---|---|---|---|---|---|---|
-| 20 | [**SIGMOD**](./sigmod.md) | Jun 13–19, 2027 | Huntington Beach, CA, USA | Rolling deadlines | 18–22% | CORE A*, CCF A |
-| 21 | [**VLDB**](./vldb.md) | Aug 23–27, 2027 | Athens, Greece | Monthly (cut-off Mar 1, 2027) | 18–21% | CORE A*, CCF A |
-| 22 | [**ICDE**](./icde.md) | May 17–21, 2027 | Copenhagen, Denmark | ~Oct/Nov 2026 | 20–25% | CORE A*, CCF A |
+| 20 | [**SIGMOD**](./sigmod.md) | Jun 13–18, 2027 | Huntington Beach, CA, USA | Round 4 Oct 17, 2026 *(passed)* | 18–22% | CORE A*, CCF A |
+| 21 | [**VLDB**](./vldb.md) | Aug 23–27, 2027 | Athens, Greece | Monthly (next Dec 1, 2026; last Mar 1, 2027) | 18–21% | CORE A*, CCF A |
+| 22 | [**ICDE**](./icde.md) | May 17–21, 2027 | Copenhagen, Denmark | Round 2: Nov 11, 2026 | 20–25% | CORE A*, CCF A |
 
 ---
 
@@ -92,8 +92,8 @@ Click on any conference name below to view its detailed page.
 
 | # | Conference | Next Edition | Location | Deadline | Acceptance Rate | Ranking |
 |---|---|---|---|---|---|---|
-| 23 | [**CHI**](./chi.md) | May 10–14, 2027 | Pittsburgh, PA, USA | ~Sep 2026 | 25–27% | CORE A*, CCF A |
-| 24 | [**UIST**](./uist.md) | Nov 2–5, 2026 | Detroit, MI, USA | ~Apr 2026 | 20–25% | CORE A*, CCF A |
+| 23 | [**CHI**](./chi.md) | May 10–14, 2027 | Pittsburgh, PA, USA | Sep 10, 2026 *(passed)* | 25–27% | CORE A*, CCF A |
+| 24 | [**UIST**](./uist.md) | Nov 2–5, 2026 | Detroit, MI, USA | Mar 31, 2026 *(passed)* | 20–25% | CORE A*, CCF A |
 
 ---
 
@@ -101,9 +101,9 @@ Click on any conference name below to view its detailed page.
 
 | # | Conference | Next Edition | Location | Deadline | Acceptance Rate | Ranking |
 |---|---|---|---|---|---|---|
-| 25 | [**ICSE**](./icse.md) | Apr 25–May 1, 2027 | Dublin, Ireland | Multi-cycle (Mar/Aug 2026) | 22–25% | CORE A*, CCF A |
-| 26 | [**FSE**](./fse.md) | Jul 12–16, 2027 | Shenzhen, China | TBA | 22–25% | CORE A*, CCF A |
-| 27 | [**ASE**](./ase.md) | Oct 12–16, 2026 | Munich, Germany | TBA | 20–22% | CORE A*, CCF A |
+| 25 | [**ICSE**](./icse.md) | Apr 25–May 1, 2027 | Dublin, Ireland | Multi-cycle (notification Oct 20, 2026 *(passed)*) | 22–25% | CORE A*, CCF A |
+| 26 | [**FSE**](./fse.md) | Jul 12–16, 2027 | Shenzhen, China | Oct 2, 2026 *(passed)* | 22–25% | CORE A*, CCF A |
+| 27 | [**ASE**](./ase.md) | ASE 2027 (2026 edition finished) — TBA | TBA | ~Mar–Jun 2027 *(unconfirmed)* | 20–22% | CORE A*, CCF A |
 
 ---
 
@@ -111,8 +111,8 @@ Click on any conference name below to view its detailed page.
 
 | # | Conference | Next Edition | Location | Deadline | Acceptance Rate | Ranking |
 |---|---|---|---|---|---|---|
-| 28 | [**STOC**](./stoc.md) | May/Jun 2027 | TBA | TBA | 25–30% | CORE A*, CCF A |
-| 29 | [**FOCS**](./focs.md) | Nov 8–11, 2026 | New York City, NY, USA | TBA | 25–30% | CORE A*, CCF A |
+| 28 | [**STOC**](./stoc.md) | Jun 6–10, 2027 | Atlanta, GA, USA | Nov 2, 2026 | 25–30% | CORE A*, CCF A |
+| 29 | [**FOCS**](./focs.md) | Nov 8–11, 2026 | New York City, NY, USA | Apr 1, 2026 *(passed)* | 25–30% | CORE A*, CCF A |
 
 ---
 
@@ -120,8 +120,8 @@ Click on any conference name below to view its detailed page.
 
 | # | Conference | Next Edition | Location | Deadline | Acceptance Rate | Ranking |
 |---|---|---|---|---|---|---|
-| 30 | [**ISCA**](./isca.md) | Jun 2027 | Atlanta, GA, USA | TBA | 15–20% | CORE A*, CCF A |
-| 31 | [**MICRO**](./micro.md) | Late 2026/2027 | TBA | TBA | 18–22% | CORE A*, CCF A |
+| 30 | [**ISCA**](./isca.md) | Jun 5–9, 2027 | Atlanta, GA, USA | Nov 16, 2026 (abstract Nov 9) | 15–20% | CORE A*, CCF A |
+| 31 | [**MICRO**](./micro.md) | Oct 31–Nov 4, 2026 | Athens, Greece | Apr 7, 2026 *(passed)*; MICRO 2027 TBA | 18–22% | CORE A*, CCF A |
 
 ---
 
@@ -129,39 +129,44 @@ Click on any conference name below to view its detailed page.
 
 | # | Conference | Next Edition | Location | Deadline | Acceptance Rate | Ranking |
 |---|---|---|---|---|---|---|
-| 32 | [**KDD**](./kdd.md) | Aug 1–5, 2027 | San Jose, CA, USA | TBA | 15–20% | CORE A*, CCF A |
-| 33 | [**WWW / TheWebConf**](./www.md) | May 10–14, 2027 | Dublin, Ireland | TBA | 15–20% | CORE A*, CCF A |
-| 34 | [**SIGIR**](./sigir.md) | Jul 18–24, 2027 | San Jose, CA, USA | TBA | 20–22% | CORE A*, CCF A |
+| 32 | [**KDD**](./kdd.md) | Aug 1–5, 2027 | San Jose, CA, USA | Cycle 1 Jul 26, 2026 *(passed)*; Cycle 2 TBA | 15–20% | CORE A*, CCF A |
+| 33 | [**WWW / TheWebConf**](./www.md) | May 10–14, 2027 | Dublin, Ireland | Oct 25, 2026 *(passed)* | 15–20% | CORE A*, CCF A |
+| 34 | [**SIGIR**](./sigir.md) | Jul 19–24, 2027 | San Jose, CA, USA | Jan 21, 2027 (abstract Jan 14) | 20–22% | CORE A*, CCF A |
 
 ---
 
 ## 📅 Timeline: Upcoming Deadlines (Sorted Chronologically)
 
-### 🔴 Deadlines Coming Soon (Sep–Dec 2026)
+### 🔴 Deadlines Coming Soon (Nov–Dec 2026)
 
 | Date | Conference | Milestone |
 |---|---|---|
-| Sep 10, 2026 | [NSDI](./nsdi.md) | Fall Paper Titles/Abstracts Due |
-| Sep 18, 2026 | [ICLR](./iclr.md) | Abstract Deadline |
-| Sep 25, 2026 | [ICLR](./iclr.md) | Full Paper Submission |
-| ~Sep 2026 | [CHI](./chi.md) | Abstract & Full Paper Deadline |
-| ~Oct/Nov 2026 | [ICDE](./icde.md) | Paper Submission |
-| Oct 12, 2026 | [NAACL](./naacl.md) | ARR Submission Deadline |
-| ~Nov 2026 | [CVPR](./cvpr.md) | Abstract & Full Paper Deadline |
-| Nov 18, 2026 | [IEEE S&P](./sp.md) | Paper Submission |
+| Nov 2, 2026 | [STOC](./stoc.md) | Paper Submission |
+| Nov 9, 2026 | [ISCA](./isca.md) | Abstract Deadline |
+| Nov 10, 2026 | [CVPR](./cvpr.md) | Abstract Deadline |
+| Nov 10, 2026 | [IEEE S&P](./sp.md) | Cycle 2 Abstract Deadline |
+| Nov 11, 2026 | [ICDE](./icde.md) | Round 2 Paper Submission |
+| Nov 16, 2026 | [CVPR](./cvpr.md) | Full Paper Submission |
+| Nov 16, 2026 | [ISCA](./isca.md) | Paper Submission |
+| Nov 17, 2026 | [IEEE S&P](./sp.md) | Cycle 2 Paper Submission |
 | Dec 1, 2026 | [OSDI](./osdi.md) | Abstract Registration |
+| Dec 1, 2026 | [VLDB](./vldb.md) | Monthly Cycle Paper Deadline |
 | Dec 8, 2026 | [OSDI](./osdi.md) | Full Paper Submission |
 
 ### 🟡 Deadlines in Early 2027 (Jan–Mar 2027)
 
 | Date | Conference | Milestone |
 |---|---|---|
-| ~Jan 2027 | [ICML](./icml.md) | Abstract & Full Paper Deadline |
-| ~Jan 2027 | [IJCAI](./ijcai.md) | Paper Submission |
-| ~Jan/Feb 2027 | [SIGCOMM](./sigcomm.md) | Paper Submission |
-| Jan 26, 2027 | [USENIX Security](./usenix-security.md) | Cycle 2 Submissions Due |
-| Mar 1, 2027 | [VLDB](./vldb.md) | Conference Cut-off Deadline |
-| ~Mar 2027 | [ICCV](./iccv.md) | Full Paper Submission |
+| Jan 4, 2027 | [ACL](./acl.md) | ARR Submission Deadline |
+| Jan 21, 2027 | [SIGIR](./sigir.md) | Paper Submission (abstract Jan 14) |
+| Jan 26, 2027 | [USENIX Security](./usenix-security.md) | Cycle 2 Paper Submission |
+| Feb 2, 2027 | [SIGCOMM](./sigcomm.md) | Paper Submission |
+| Mar 1, 2027 | [VLDB](./vldb.md) | Final Cut-off Deadline |
+| ~Jan 2027 | [ICML](./icml.md) | Expected (unconfirmed) |
+| ~Jan 2027 | [IJCAI](./ijcai.md) | Expected (unconfirmed) |
+| ~Mar 2027 | [ICCV](./iccv.md) | Expected (unconfirmed) |
+
+> ⚠️ Rows marked *unconfirmed* or TBA were not announced on official sites as of October 2026. Always verify on the conference website.
 
 ---
 
@@ -292,4 +297,4 @@ D:\Research\conferences\
 
 ---
 
-*This index covers **34 top-tier (CORE A/A\*)** conferences across **10 research domains**. All information is based on the latest publicly available data as of September 2026. Always verify dates on official conference websites before submitting.*
+*This index covers **34 top-tier (CORE A/A\*)** conferences across **10 research domains**. All information is based on the latest publicly available data as of October 2026. Always verify dates on official conference websites before submitting.*

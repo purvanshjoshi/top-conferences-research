@@ -20,19 +20,21 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | ICCV 2027 (biennial) |
-| **Dates** | October 2-8 2027 |
-| **Location** | Hong Kong |
+| **Edition** | ICCV 2027 |
+| **Dates** | October 3-7, 2027 (workshops/tutorials Oct 3-4; main conference Oct 5-7, per official dates page; the homepage venue text also says Oct 2-8) |
+| **Location** | Hong Kong (Hong Kong Convention and Exhibition Centre, per iccv.thecvf.com homepage) |
 | **Website** | iccv.thecvf.com |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | Expected late Feb 2027 |
-| Full Paper Submission | Expected early March 2027 |
+| Abstract Deadline | Expected ~early Mar 2027 based on prior years (unconfirmed) |
+| Full Paper Submission | Expected ~Mar 2027 based on prior years (unconfirmed) |
 | Notification of Acceptance | TBA |
 | Camera-Ready Deadline | TBA |
+
+*Source: https://iccv.thecvf.com/ ; https://iccv.thecvf.com/Conferences/2027/Dates (no deadlines listed as of Oct 2026)*
 
 ## 📝 Paper Format Requirements
 
@@ -74,4 +76,4 @@ Discounts for IEEE/CVF members and students.
 Similar rigor to CVPR is expected. Ensure high-quality figures and comprehensive supplementary materials.
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

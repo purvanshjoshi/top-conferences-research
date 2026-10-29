@@ -20,19 +20,21 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | ASE 2026 |
-| **Dates** | October 12-16 2026 |
-| **Location** | Munich Germany |
-| **Website** | conf.researchr.org/home/ase-2026 |
+| **Edition** | ASE 2027 (42nd; ASE 2026 in Munich, Oct 12-16 2026, has finished) |
+| **Dates** | TBA (not yet announced as of Oct 2026) |
+| **Location** | TBA (not yet announced as of Oct 2026) |
+| **Website** | https://conf.researchr.org/series/ase (no ASE 2027 page found) |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | TBD |
-| Full Paper Submission | TBD |
-| Notification of Acceptance | TBD |
-| Camera-Ready Deadline | TBD |
+| Abstract Deadline | TBA (not yet announced as of Oct 2026) |
+| Full Paper Submission | Expected ~Mar-Jun 2027 based on prior years (unconfirmed) |
+| Notification of Acceptance | TBA (not yet announced as of Oct 2026) |
+| Camera-Ready Deadline | TBA (not yet announced as of Oct 2026) |
+
+*Source: https://conf.researchr.org/home/ase-2026 ; https://conf.researchr.org/series/ase*
 
 ## 📝 Paper Format Requirements
 
@@ -72,4 +74,4 @@ Acceptance rate: 20-22%
 (Practical advice for submitting to this conference)
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

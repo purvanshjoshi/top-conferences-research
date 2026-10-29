@@ -20,19 +20,21 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | ECCV 2026 (biennial) |
-| **Dates** | September 8-12 2026 |
-| **Location** | Malmö Sweden |
+| **Edition** | ECCV 2028 (ECCV 2026 in Malmö, Sep 8-12 2026, has already taken place) |
+| **Dates** | TBA (not yet announced as of Oct 2026) |
+| **Location** | TBA (not yet announced as of Oct 2026) |
 | **Website** | eccv.ecva.net |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | March 2026 |
-| Full Paper Submission | March 5 2026 (passed) |
-| Notification of Acceptance | June 17 2026 |
-| Camera-Ready Deadline | TBA |
+| Abstract Deadline | TBA (not yet announced as of Oct 2026) |
+| Full Paper Submission | TBA (not yet announced as of Oct 2026) |
+| Notification of Acceptance | TBA (not yet announced as of Oct 2026) |
+| Camera-Ready Deadline | TBA (not yet announced as of Oct 2026) |
+
+*Source: https://eccv.ecva.net/*
 
 ## 📝 Paper Format Requirements
 
@@ -72,4 +74,4 @@ Standard tiered pricing.
 The 14-page LNCS format gives more room for text but margins are tighter; utilize the extra pages for thorough ablation studies.
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

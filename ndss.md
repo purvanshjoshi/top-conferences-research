@@ -20,19 +20,22 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | 2027 Edition |
-| **Dates** | March 22-26 2027 |
-| **Location** | Seoul, South Korea |
-| **Website** | https://ndss-symposium.org |
+| **Edition** | NDSS 2027 |
+| **Dates** | March 22-26, 2027 |
+| **Location** | Grand InterContinental Seoul Parnas Hotel, Seoul, Republic of Korea |
+| **Website** | https://www.ndss-symposium.org/ndss2027/ |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | TBA (Summer/Fall cycles) |
-| Full Paper Submission | TBA (Summer/Fall cycles) |
-| Notification of Acceptance | TBA |
-| Camera-Ready Deadline | TBA |
+| Summer Cycle Paper Deadline | May 6, 2026 (passed) |
+| Fall Cycle Paper Deadline | Aug 19, 2026 (passed) |
+| Fall Cycle Author Notification | Nov 24, 2026 |
+| Fall Cycle Major-Revision Resubmission / Notification | Dec 22, 2026 / Jan 11, 2027 |
+| Camera-Ready Deadline (Fall Cycle) | Feb 1, 2027 |
+
+*Source: https://www.ndss-symposium.org/ndss2027/submissions/call-for-papers/ (all deadlines 11:59 PM AoE)*
 
 ## 📝 Paper Format Requirements
 
@@ -75,4 +78,4 @@
 Strong focus on applied and distributed system security. Clear definitions of threat models and reproducible experiments.
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

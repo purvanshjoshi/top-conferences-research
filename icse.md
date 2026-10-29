@@ -21,18 +21,21 @@
 | Field | Details |
 |---|---|
 | **Edition** | ICSE 2027 |
-| **Dates** | April 25-May 1 2027 |
-| **Location** | Dublin Ireland |
-| **Website** | conf.researchr.org/home/icse-2027 |
+| **Dates** | April 25 - May 1 2027 |
+| **Location** | Dublin, Ireland (Convention Centre Dublin) |
+| **Website** | https://conf.researchr.org/home/icse-2027 |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | Multi-cycle |
-| Full Paper Submission | Cycle 1 ~March 2026, Cycle 2 ~August 2026 |
-| Notification of Acceptance | TBD |
-| Camera-Ready Deadline | TBD |
+| Abstract Deadline | Jun 23 2026 (passed) |
+| Full Paper Submission | Jun 26 2026 (passed); single research-track cycle listed |
+| Notification of Acceptance | Oct 20 2026 (passed); final decision for major-revision papers Dec 18 2026 |
+| Revision Due | Nov 17 2026 |
+| Camera-Ready Deadline | Nov 24 2026 (directly accepted papers); Jan 25 2027 (accepted major-revision papers) |
+
+*Source: https://conf.researchr.org/dates/icse-2027 (dates as extracted; verify notification date on the research track page)*
 
 ## 📝 Paper Format Requirements
 
@@ -75,4 +78,4 @@ Acceptance rate: 22-25%
 (Practical advice for submitting to this conference)
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

@@ -21,18 +21,21 @@
 | Field | Details |
 |---|---|
 | **Edition** | FOCS 2026 |
-| **Dates** | November 8-11 2026 |
-| **Location** | New York City NY USA |
-| **Website** | focs.computer.org/2026/ |
+| **Dates** | November 8-11 2026 (co-located with TCC 2026) |
+| **Location** | New York City NY USA (NYU Kimmel Center) |
+| **Website** | focs.computer.org |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | TBD |
-| Full Paper Submission | TBD |
-| Notification of Acceptance | TBD |
-| Camera-Ready Deadline | TBD |
+| Abstract Deadline | No separate abstract deadline listed |
+| Full Paper Submission | April 1 2026, 5:00 PM EDT (passed) |
+| Notification of Acceptance | July 3 2026 (passed) |
+| Camera-Ready Deadline | October 1 2026 (passed) |
+| Early Registration | October 25 2026, 11:59 PM AoE (passed) |
+
+*Source: https://focs.computer.org/*
 
 ## 📝 Paper Format Requirements
 
@@ -71,4 +74,4 @@ Acceptance rate: 25-30%
 (Practical advice for submitting to this conference)
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

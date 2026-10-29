@@ -21,20 +21,20 @@
 | Field | Details |
 |---|---|
 | **Edition** | ICLR 2027 |
-| **Dates** | April 26–30, 2027 |
-| **Location** | California, USA |
-| **Website** | [iclr.cc](https://iclr.cc) |
+| **Dates** | April 26-30, 2027 (main conference Apr 26-28; workshops Apr 29-30) |
+| **Location** | California, USA (city/venue to be announced; San Francisco/Moscone Center only appears as an unofficial image caption) |
+| **Website** | iclr.cc/Conferences/2027 |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | September 18, 2026 |
-| Full Paper Submission | September 25, 2026 |
-| Review Period | October–November 2026 |
-| Author Rebuttal | ~November 2026 |
-| Notification of Acceptance | December 16, 2026 |
-| Camera-Ready Deadline | ~February 2027 |
+| Abstract Deadline | Sep 18 2026 AoE (passed) |
+| Full Paper Submission | Sep 25 2026 AoE (passed) |
+| Notification of Acceptance | Dec 16 2026 (final decisions; reviews released Nov 5 2026) |
+| Camera-Ready Deadline | TBA (not listed on the official dates page) |
+
+*Source: https://iclr.cc/Conferences/2027/Dates ; https://iclr.cc/Conferences/2027/index.html*
 
 ## 📝 Paper Format Requirements
 
@@ -113,4 +113,4 @@
 8. **Reproducibility**: Submit code and clearly document hyperparameters and experimental setup
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

@@ -21,18 +21,20 @@
 | Field | Details |
 |---|---|
 | **Edition** | CVPR 2027 |
-| **Dates** | June 20-24 2027 |
-| **Location** | Seattle WA USA |
-| **Website** | cvpr.thecvf.com |
+| **Dates** | June 20-25, 2027 (workshops/tutorials Jun 20-21; main conference Jun 22-25) |
+| **Location** | Seattle, Washington, USA (per IEEE listing; not stated on the CVPR dates page) |
+| **Website** | cvpr.thecvf.com/Conferences/2027 |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | Expected early Nov 2026 |
-| Full Paper Submission | Expected mid-Nov 2026 |
-| Notification of Acceptance | TBA |
-| Camera-Ready Deadline | TBA |
+| Abstract Deadline | Nov 10 2026 AoE (paper registration) |
+| Full Paper Submission | Nov 16 2026 AoE |
+| Notification of Acceptance | Feb 25 2027 (final decisions; reviews released Jan 25 2027) |
+| Camera-Ready Deadline | TBA (not yet announced) |
+
+*Source: https://cvpr.thecvf.com/Conferences/2027/Dates ; https://cvpr.thecvf.com/Conferences/2027/CallForPapers ; https://www.computer.org/conferences/cfp-ieee-cvpr-2027*
 
 ## 📝 Paper Format Requirements
 
@@ -74,4 +76,4 @@ Receives massive submission volumes (10k+), maintaining a ~25-28% acceptance rat
 Visuals matter heavily; ensure architecture diagrams and qualitative results are extremely well-crafted.
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

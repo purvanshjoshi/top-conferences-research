@@ -20,19 +20,21 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | 53rd |
+| **Edition** | VLDB 2027 (53rd) |
 | **Dates** | August 23-27 2027 |
 | **Location** | Athens, Greece |
-| **Website** | https://vldb.org |
+| **Website** | https://vldb.org/2027 |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | 25th of prior month starting 2027 |
-| Full Paper Submission | Monthly deadlines for PVLDB (cut-off March 1 2027) |
-| Notification of Acceptance | TBA |
-| Camera-Ready Deadline | TBA |
+| Abstract Deadline | 25th of the month before each monthly deadline (next: Nov 25 2026 for the Dec 1 deadline) |
+| Full Paper Submission | 1st of every month until March 2027 (next: Nov 1 2026 passed; Dec 1 2026, Jan 1, Feb 1, Mar 1 2027), 5 p.m. PT |
+| Notification of Acceptance | 15th of the month following each deadline (e.g. Dec 15 2026 for Nov 1 submissions) |
+| Camera-Ready Deadline | Proceedings chairs send instructions by the 5th of the month after notification; exact dates TBA (not yet announced as of Oct 2026) |
+
+*Source: https://vldb.org/2027/important-dates.html (table headers matched to values by a page summarizer; verify on the official page)*
 
 ## 📝 Paper Format Requirements
 
@@ -78,4 +80,4 @@
 VLDB values deep technical contributions, formal proofs where appropriate, and extensive real-world performance benchmarks.
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

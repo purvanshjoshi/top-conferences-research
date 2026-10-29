@@ -20,19 +20,22 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | ISCA 2027 |
-| **Dates** | Expected June 2027 |
-| **Location** | Atlanta GA USA |
-| **Website** | TBD |
+| **Edition** | ISCA 2027 (54th International Symposium on Computer Architecture) |
+| **Dates** | June 5-9, 2027 |
+| **Location** | Atlanta, GA, USA (co-located with FCRC) |
+| **Website** | https://iscaconf.org/isca2027/ |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | TBD |
-| Full Paper Submission | TBD |
-| Notification of Acceptance | TBD |
-| Camera-Ready Deadline | TBD |
+| Abstract Deadline | Nov 9, 2026 (AoE) |
+| Full Paper Submission | Nov 16, 2026 (AoE) |
+| Industry Track Abstract / Paper | Dec 6, 2026 / Dec 13, 2026 |
+| Notification of Acceptance | Mar 26, 2027 |
+| Camera-Ready Deadline | TBA (not yet announced as of Oct 2026) |
+
+*Source: https://iscaconf.org/isca2027/*
 
 ## 📝 Paper Format Requirements
 
@@ -73,4 +76,4 @@ Acceptance rate: 15-20%
 (Practical advice for submitting to this conference)
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*
