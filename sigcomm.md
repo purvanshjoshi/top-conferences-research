@@ -20,19 +20,21 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | 41st |
-| **Dates** | August 8-12 2027 |
-| **Location** | Bangkok, Thailand |
-| **Website** | https://sigcomm.org |
+| **Edition** | ACM SIGCOMM 2027 (41st) |
+| **Dates** | August 8-12, 2027 |
+| **Location** | Queen Sirikit National Convention Center, Bangkok, Thailand |
+| **Website** | https://conferences.sigcomm.org/sigcomm/2027/ |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | TBA (Usually January/February 2027) |
-| Full Paper Submission | TBA (Usually January/February 2027) |
-| Notification of Acceptance | TBA |
-| Camera-Ready Deadline | TBA |
+| Abstract Deadline | Not stated on official pages (TBA) |
+| Full Paper Submission | Feb 2, 2027 (main conference paper submission) |
+| Notification of Acceptance | TBA (not yet announced as of Oct 2026) |
+| Camera-Ready Deadline | TBA (accepted papers are published July 18, 2027) |
+
+*Source: https://conferences.sigcomm.org/sigcomm/2027/ ; https://conferences.sigcomm.org/sigcomm/2027/cfp/*
 
 ## 📝 Paper Format Requirements
 
@@ -81,4 +83,4 @@
 Highlight fundamental contributions to networking and strong empirical evaluation. Reproducibility is highly valued.
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

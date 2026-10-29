@@ -29,10 +29,12 @@
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | TBD |
-| Full Paper Submission | TBD |
-| Notification of Acceptance | TBD |
-| Camera-Ready Deadline | TBD |
+| Abstract Deadline | October 18 2026 AoE (passed) |
+| Full Paper Submission | October 25 2026 AoE (passed) |
+| Notification of Acceptance | January 4 2027 (reviews Dec 15 2026; rebuttal Dec 15-20 2026) |
+| Camera-Ready Deadline | January 31 2027 (final version) |
+
+*Source: https://www2027.thewebconf.org/?p=296*
 
 ## 📝 Paper Format Requirements
 
@@ -73,4 +75,4 @@ Acceptance rate: 15-20%
 (Practical advice for submitting to this conference)
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

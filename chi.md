@@ -22,17 +22,21 @@
 |---|---|
 | **Edition** | CHI 2027 |
 | **Dates** | May 10-14 2027 |
-| **Location** | Pittsburgh PA USA |
-| **Website** | chi2027.acm.org (expected) |
+| **Location** | Pittsburgh, PA, USA (David L. Lawrence Convention Center) |
+| **Website** | https://chi2027.acm.org |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | ~Sep 2026 |
-| Full Paper Submission | ~Sep 2026 |
-| Notification of Acceptance | ~Dec 2026 |
-| Camera-Ready Deadline | ~Jan 2027 |
+| Abstract Deadline | No separate abstract deadline listed on official site |
+| Full Paper Submission | Sep 10 2026 AoE (passed) |
+| Reviews Released | Nov 5 2026 |
+| Resubmission Deadline | Dec 3 2026 |
+| Notification of Acceptance | Dec 17 2026 |
+| Camera-Ready Deadline | TBA (not yet announced as of Oct 2026) |
+
+*Source: https://chi2027.acm.org/*
 
 ## 📝 Paper Format Requirements
 
@@ -85,4 +89,4 @@
 (Practical advice for submitting to this conference)
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

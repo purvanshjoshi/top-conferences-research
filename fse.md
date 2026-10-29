@@ -22,17 +22,19 @@
 |---|---|
 | **Edition** | FSE 2027 |
 | **Dates** | July 12-16 2027 |
-| **Location** | Shenzhen China |
-| **Website** | TBD |
+| **Location** | Shenzhen, China |
+| **Website** | https://conf.researchr.org/home/fse-2027 |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | TBD |
-| Full Paper Submission | TBD |
-| Notification of Acceptance | TBD |
-| Camera-Ready Deadline | TBD |
+| Abstract Deadline | Not listed on official dates page |
+| Full Paper Submission | Oct 2 2026 (passed) |
+| Notification of Acceptance | Initial: Jan 22 2027 (author response Dec 14-18 2026); major revision due Mar 5 2027; final Mar 31 2027 |
+| Camera-Ready Deadline | TBA (not yet announced as of Oct 2026) |
+
+*Source: https://conf.researchr.org/dates/fse-2027*
 
 ## 📝 Paper Format Requirements
 
@@ -73,4 +75,4 @@ Acceptance rate: 22-25%
 (Practical advice for submitting to this conference)
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

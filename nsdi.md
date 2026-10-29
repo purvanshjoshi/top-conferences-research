@@ -20,19 +20,24 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | 24th |
-| **Dates** | May 11-13 2027 |
-| **Location** | Providence, RI, USA |
+| **Edition** | NSDI 2027 (24th USENIX Symposium on Networked Systems Design and Implementation) |
+| **Dates** | May 11-13, 2027 |
+| **Location** | Providence, RI, USA (Omni Providence) |
 | **Website** | https://usenix.org/conference/nsdi27 |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | Sept 10, 2026 (Fall deadline) |
-| Full Paper Submission | TBA (Two deadlines: Spring & Fall) |
-| Notification of Acceptance | TBA |
-| Camera-Ready Deadline | TBA |
+| Spring Abstract Deadline | Apr 16, 2026 (passed) |
+| Spring Full Paper Submission | Apr 23, 2026 (passed) |
+| Spring Notification / Final Files | July 23, 2026 (passed) / Oct 20, 2026 (passed) |
+| Fall Abstract Deadline | Sept 10, 2026 (passed) |
+| Fall Full Paper Submission | Sept 17, 2026 (passed) |
+| Fall Notification of Acceptance | Dec 8, 2026 |
+| Fall Camera-Ready (Final Files) | Mar 4, 2027 |
+
+*Source: https://www.usenix.org/conference/nsdi27/call-for-papers*
 
 ## 📝 Paper Format Requirements
 
@@ -74,4 +79,4 @@
 Focus on deploying and evaluating scalable network systems. Practical insights and measurements from real-world deployments are key.
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

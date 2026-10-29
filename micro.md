@@ -20,19 +20,22 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | MICRO 2026/2027 |
-| **Dates** | Expected late 2026/late 2027 |
-| **Location** | TBD |
-| **Website** | TBD |
+| **Edition** | MICRO 2026 (MICRO-59, 59th IEEE/ACM International Symposium on Microarchitecture) - imminent |
+| **Dates** | October 31 - November 4, 2026 |
+| **Location** | Athens, Greece |
+| **Website** | https://microarch.org/micro59/ |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | TBD |
-| Full Paper Submission | TBD |
-| Notification of Acceptance | TBD |
-| Camera-Ready Deadline | TBD |
+| Abstract Deadline | Mar 31, 2026 (passed) |
+| Full Paper Submission | Apr 7, 2026 (passed) |
+| Notification of Acceptance | July 7, 2026 (passed) |
+| Camera-Ready Deadline | Sept 11, 2026 (passed) |
+| MICRO 2027 (next edition) | TBA (not yet announced as of Oct 2026) |
+
+*Source: https://microarch.org/micro59/index.php*
 
 ## 📝 Paper Format Requirements
 
@@ -71,4 +74,4 @@ Acceptance rate: 18-22%
 (Practical advice for submitting to this conference)
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

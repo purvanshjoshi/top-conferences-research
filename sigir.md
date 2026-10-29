@@ -21,18 +21,20 @@
 | Field | Details |
 |---|---|
 | **Edition** | SIGIR 2027 |
-| **Dates** | July 18-24 2027 |
-| **Location** | San Jose CA USA |
-| **Website** | TBD |
+| **Dates** | July 19-24 2027 (tutorials Jul 19, main Jul 20-22, workshops Jul 23, ICTIR Jul 24) |
+| **Location** | San Jose CA USA (Signia by Hilton San Jose) |
+| **Website** | sigir2027.org |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | TBD |
-| Full Paper Submission | TBD |
-| Notification of Acceptance | TBD |
-| Camera-Ready Deadline | TBD |
+| Abstract Deadline | January 14 2027 |
+| Full Paper Submission | January 21 2027 |
+| Notification of Acceptance | April 5 2027 |
+| Camera-Ready Deadline | April 30 2027 |
+
+*Source: https://sigir2027.org/*
 
 ## 📝 Paper Format Requirements
 
@@ -73,4 +75,4 @@ Acceptance rate: 20-22%
 (Practical advice for submitting to this conference)
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

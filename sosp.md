@@ -20,9 +20,9 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | 32nd SOSP (SOSP 2026) / 33rd SOSP (SOSP 2027) |
-| **Dates** | SOSP 2026: September 29 – October 2, 2026 · SOSP 2027: TBA |
-| **Location** | SOSP 2026: Prague, Czechia · SOSP 2027: Vancouver, Canada |
+| **Edition** | 33rd SOSP (SOSP 2027); SOSP 2026 in Prague already finished (Sept 29 – Oct 2, 2026) |
+| **Dates** | TBA (not yet announced as of Oct 2026) |
+| **Location** | Vancouver, Canada listed by SIGOPS as the upcoming SOSP 2027 site, but SIGOPS also still solicited host proposals (due Aug 31, 2026), so unconfirmed |
 | **Website** | [sigops.org/s/conferences/sosp/](https://sigops.org/s/conferences/sosp/) |
 
 > Note: SOSP traditionally alternates biennially with OSDI.
@@ -31,12 +31,12 @@
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | TBA for 2027 (typically spring) |
-| Full Paper Submission | TBA for 2027 (typically spring for fall conference) |
-| Notification of Acceptance | TBA |
-| Camera-Ready Deadline | TBA |
+| Abstract Deadline | Expected ~spring 2027 based on prior years (unconfirmed) |
+| Full Paper Submission | Expected ~spring 2027 based on prior years (unconfirmed) |
+| Notification of Acceptance | TBA (not yet announced as of Oct 2026) |
+| Camera-Ready Deadline | TBA (not yet announced as of Oct 2026) |
 
-> Historical pattern: Submissions are typically due in April/May for a fall conference.
+*Source: https://sigops.org/s/conferences/sosp/ ; https://www.sigops.org/newsletter-issue/3952/*
 
 ## 📝 Paper Format Requirements
 
@@ -107,4 +107,4 @@
 8. **Single-track format**: Your talk will be seen by everyone — prepare it well
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

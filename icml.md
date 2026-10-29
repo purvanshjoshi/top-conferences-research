@@ -21,20 +21,20 @@
 | Field | Details |
 |---|---|
 | **Edition** | ICML 2027 |
-| **Dates** | Expected July 2027 |
-| **Location** | To Be Announced |
-| **Website** | [icml.cc](https://icml.cc) |
+| **Dates** | TBA (not yet announced as of Oct 2026) |
+| **Location** | South America (host region per official Future Meetings page; city not announced as of Oct 2026) |
+| **Website** | icml.cc |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | ~Mid-January 2027 (Expected) |
-| Full Paper Submission | ~Late January 2027 (Expected) |
-| Notification of Acceptance | ~April–May 2027 (Expected) |
-| Camera-Ready Deadline | ~June 2027 (Expected) |
+| Abstract Deadline | Expected ~mid-Jan 2027 based on prior years (unconfirmed) |
+| Full Paper Submission | Expected ~late Jan 2027 based on prior years (unconfirmed) |
+| Notification of Acceptance | TBA |
+| Camera-Ready Deadline | TBA |
 
-> Note: ICML 2026 deadlines can be used as reference. Check the official website for confirmed 2027 dates.
+*Source: https://icml.cc/Conferences/FutureMeetings ; https://icml.cc/Conferences/2026/Announcements*
 
 ## 📝 Paper Format Requirements
 
@@ -115,4 +115,4 @@
 8. **Dual submission**: Not allowed with other conferences; journal submissions may have exceptions
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

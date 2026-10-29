@@ -21,18 +21,20 @@
 | Field | Details |
 |---|---|
 | **Edition** | STOC 2027 |
-| **Dates** | Expected May/June 2027 |
-| **Location** | Location TBD |
-| **Website** | TBD |
+| **Dates** | June 6-10 2027 (TCS+AI day June 11) |
+| **Location** | Atlanta GA USA (part of ACM FCRC) |
+| **Website** | acm-stoc.org/stoc2027/ |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | TBD |
-| Full Paper Submission | TBD |
-| Notification of Acceptance | TBD |
-| Camera-Ready Deadline | TBD |
+| Abstract Deadline | No separate abstract deadline listed |
+| Full Paper Submission | November 2 2026, 11:59 pm AoE (video submission Nov 16 2026) |
+| Notification of Acceptance | February 1 2027 |
+| Camera-Ready Deadline | TBA (not yet announced as of Oct 2026) |
+
+*Source: https://acm-stoc.org/stoc2027/*
 
 ## 📝 Paper Format Requirements
 
@@ -73,4 +75,4 @@ Acceptance rate: 25-30%
 (Practical advice for submitting to this conference)
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

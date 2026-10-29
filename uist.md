@@ -21,18 +21,21 @@
 | Field | Details |
 |---|---|
 | **Edition** | UIST 2026 |
-| **Dates** | November 2-5 2026 |
-| **Location** | Detroit MI USA |
-| **Website** | uist.acm.org |
+| **Dates** | November 2-5 2026 (imminent) |
+| **Location** | Detroit, MI, USA (Renaissance Center) |
+| **Website** | https://uist.acm.org/2026/ |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | ~April 2026 |
-| Full Paper Submission | ~April 2026 |
-| Notification of Acceptance | TBD |
-| Camera-Ready Deadline | TBD |
+| Abstract Deadline | Mar 24 2026 (passed; per third-party aggregator, not confirmed on official site) |
+| Full Paper Submission | Mar 31 2026 (passed; per third-party aggregator, not confirmed on official site) |
+| Notification of Acceptance | Passed (exact date not verified) |
+| Camera-Ready Deadline | Passed (exact date not verified) |
+| Next edition (UIST 2027) | Dates, location and call for papers TBA (not yet announced as of Oct 2026) |
+
+*Source: https://uist.acm.org/2026/ ; https://sigchi.org/events/uist-2026/*
 
 ## 📝 Paper Format Requirements
 
@@ -74,4 +77,4 @@
 (Practical advice for submitting to this conference)
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

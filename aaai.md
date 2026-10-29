@@ -20,19 +20,21 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | 41st AAAI (AAAI-27) |
-| **Dates** | February 16-23 2027 |
-| **Location** | Montréal Canada |
-| **Website** | aaai.org/conference/aaai/aaai-27/ |
+| **Edition** | AAAI-27 (41st AAAI Conference on Artificial Intelligence) |
+| **Dates** | February 16-23, 2027 |
+| **Location** | Montréal, Canada |
+| **Website** | aaai.org/conference/aaai/aaai-27 |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | July 21 2026 (passed) |
-| Full Paper Submission | July 28 2026 (passed) |
-| Notification of Acceptance | Nov 30 2026 |
-| Camera-Ready Deadline | TBA |
+| Abstract Deadline | Jul 21 2026 (passed) |
+| Full Paper Submission | Jul 28 2026 (passed) |
+| Notification of Acceptance | Nov 30 2026 (Phase 1 rejections sent Sep 24 2026, passed) |
+| Camera-Ready Deadline | Dec 14 2026 |
+
+*Source: https://aaai.org/conference/aaai/aaai-27/main-technical-track-call/*
 
 ## 📝 Paper Format Requirements
 
@@ -77,4 +79,4 @@ Highly competitive with acceptance rates strictly around 20-23%.
 AAAI values both novel ML methods and traditional AI topics (search, planning, logic). Position your work clearly within the broad AI landscape.
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

@@ -20,19 +20,23 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | 48th |
-| **Dates** | May 17-19 2027 |
-| **Location** | Montreal, Canada |
-| **Website** | https://ieee-security.org |
+| **Edition** | IEEE S&P 2027 (48th IEEE Symposium on Security and Privacy) |
+| **Dates** | May 17-19, 2027 (workshops May 20, 2027) |
+| **Location** | Le Centre Sheraton Montreal Hotel, Montreal, Canada |
+| **Website** | https://sp2027.ieee-security.org/ |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | Nov 11, 2026 (Approx. 1 week before full paper) |
-| Full Paper Submission | Nov 18, 2026 (multi-cycle) |
-| Notification of Acceptance | TBA |
-| Camera-Ready Deadline | TBA |
+| Cycle 1 Abstract / Paper | June 4, 2026 / June 11, 2026 (passed) |
+| Cycle 1 Notification / Camera-Ready | Sept 11, 2026 (passed) / Oct 16, 2026 (passed) |
+| Cycle 2 Abstract Deadline | Nov 10, 2026 |
+| Cycle 2 Full Paper Submission | Nov 17, 2026 |
+| Cycle 2 Notification of Acceptance | Mar 5, 2027 (chairs may adjust) |
+| Cycle 2 Camera-Ready Deadline | Apr 8, 2027 |
+
+*Source: https://sp2027.ieee-security.org/ ; https://sp2027.ieee-security.org/cfpapers.html (all deadlines 23:59 AoE)*
 
 ## 📝 Paper Format Requirements
 
@@ -77,4 +81,4 @@
 Rigorous methodology is crucial. SoK papers require a broad, deep synthesis of an area rather than just a survey.
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

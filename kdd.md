@@ -22,17 +22,19 @@
 |---|---|
 | **Edition** | KDD 2027 |
 | **Dates** | August 1-5 2027 |
-| **Location** | San Jose CA USA |
-| **Website** | TBD |
+| **Location** | San Jose CA USA (San Jose McEnery Convention Center) |
+| **Website** | kdd2027.kdd.org |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | TBD |
-| Full Paper Submission | TBD |
-| Notification of Acceptance | TBD |
-| Camera-Ready Deadline | TBD |
+| Abstract Deadline | Cycle 1: July 19 2026 (passed); Cycle 2: TBA (not yet announced as of Oct 2026) |
+| Full Paper Submission | Cycle 1: July 26 2026 (passed); Cycle 2: TBA (not yet announced as of Oct 2026) |
+| Notification of Acceptance | Cycle 1: November 14 2026 (rebuttal Sep 29 - Oct 13 2026, passed); Cycle 2: TBA (not yet announced as of Oct 2026) |
+| Camera-Ready Deadline | TBA (not yet announced as of Oct 2026) |
+
+*Source: https://kdd2027.kdd.org/ and https://kdd2027.kdd.org/research-track-call-for-papers/*
 
 ## 📝 Paper Format Requirements
 
@@ -73,4 +75,4 @@ Acceptance rate: 15-20% (Research track)
 (Practical advice for submitting to this conference)
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

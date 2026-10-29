@@ -20,19 +20,23 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | 2027 Edition |
-| **Dates** | June 13-19 2027 |
+| **Edition** | SIGMOD/PODS 2027 |
+| **Dates** | June 13-18 2027 |
 | **Location** | Huntington Beach, CA, USA |
-| **Website** | https://2027.sigmod.org |
+| **Website** | https://2027.sigmodconf.hosting.acm.org |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | Rolling throughout the year |
-| Full Paper Submission | Multiple rolling submission deadlines |
-| Notification of Acceptance | TBA |
-| Camera-Ready Deadline | TBA |
+| Abstract Deadline (Round 4, research) | Oct 10 2026 (passed) |
+| Full Paper Submission (Round 4, research) | Oct 17 2026 (passed); Rounds 1-3 (Jan 17, Apr 17, Jul 17 2026) also passed |
+| Notification of Acceptance (Round 4) | Jan 19 2027 (accept/reject/revision); revised paper due Feb 19 2027; final notification Mar 12 2027 |
+| Camera-Ready Deadline | Not listed on research call (not yet announced as of Oct 2026) |
+| PODS Cycle 2 | Abstract Dec 3 2026; full paper Dec 10 2026; notification Feb 8 2027; final Mar 1 2027 |
+| Industrial Track | Paper submission Nov 24 2026; notification Mar 4 2027 |
+
+*Source: https://2027.sigmodconf.hosting.acm.org/calls_papers_sigmod_research.shtml ; https://2027.sigmodconf.hosting.acm.org/calls_industrial_track_papers.shtml (all AoE; PODS dates match the official important-dates page)*
 
 ## 📝 Paper Format Requirements
 
@@ -80,4 +84,4 @@
 Consider comprehensive experiments covering varied workloads. Open-sourcing prototypes and datasets heavily improves artifact evaluation scores.
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

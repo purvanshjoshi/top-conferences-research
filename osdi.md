@@ -20,19 +20,21 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | 21st |
-| **Dates** | July 7-9 2027 |
-| **Location** | Baltimore, MD, USA |
-| **Website** | https://usenix.org/osdi27 |
+| **Edition** | OSDI 2027 (21st USENIX Symposium on Operating Systems Design and Implementation) |
+| **Dates** | July 7-9, 2027 |
+| **Location** | Hyatt Regency Baltimore Inner Harbor, Baltimore, MD, USA |
+| **Website** | https://usenix.org/conference/osdi27 |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | Dec 1, 2026 |
-| Full Paper Submission | Dec 8, 2026 |
+| Abstract Deadline | Dec 1, 2026, 5:59 pm EST (hard deadline) |
+| Full Paper Submission | Dec 8, 2026, 5:59 pm EST (hard deadline) |
 | Notification of Acceptance | Mar 16, 2027 |
 | Camera-Ready Deadline | June 3, 2027 |
+
+*Source: https://www.usenix.org/conference/osdi27/call-for-papers (preliminary CFP)*
 
 ## 📝 Paper Format Requirements
 
@@ -77,4 +79,4 @@
 Consider system scalability and robustness. Clearly demonstrate practical relevance and strong evaluation methodology.
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

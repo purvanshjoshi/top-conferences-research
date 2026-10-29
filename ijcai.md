@@ -20,19 +20,21 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | IJCAI 2027 |
-| **Dates** | Expected August 2027 |
-| **Location** | TBA |
+| **Edition** | IJCAI-27 |
+| **Dates** | Aug 7-13, 2027 (Kyoto); Aug 15-17, 2027 (Hengqin) |
+| **Location** | Kyoto, Japan and Hengqin, China (two-site format) |
 | **Website** | ijcai.org |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| Abstract Deadline | Historically mid-January 2027 |
-| Full Paper Submission | Historically mid-January 2027 |
+| Abstract Deadline | Expected ~Jan 2027 based on prior years (unconfirmed) |
+| Full Paper Submission | Expected ~Jan 2027 based on prior years (unconfirmed) |
 | Notification of Acceptance | TBA |
 | Camera-Ready Deadline | TBA |
+
+*Source: https://www.ijcai.org/future_conferences (call for papers not yet released as of Oct 2026)*
 
 ## 📝 Paper Format Requirements
 
@@ -76,4 +78,4 @@ One of the most competitive general AI conferences, accepting 15-20%.
 Highlight the broader implications of your AI research. Highly values interdisciplinary AI applications and traditional logic/planning methods alongside ML.
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*

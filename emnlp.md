@@ -20,19 +20,21 @@
 
 | Field | Details |
 |---|---|
-| **Edition** | EMNLP 2026 |
-| **Dates** | October 24-29 2026 |
-| **Location** | Budapest Hungary |
-| **Website** | 2026.emnlp.org |
+| **Edition** | EMNLP 2027 (EMNLP 2026 in Budapest, Oct 24-29 2026, has finished) |
+| **Dates** | TBA (not officially announced; secondary sources mention early Nov 2027, unconfirmed) |
+| **Location** | TBA (not officially announced; a secondary source mentions Mexico or Central America, unconfirmed) |
+| **Website** | 2027.emnlp.org (not verified) |
 
 ## ⏰ Important Deadlines
 
 | Milestone | Date |
 |---|---|
-| ARR Submission | May 25 2026 (passed) |
-| Commitment Deadline | August 2 2026 |
-| Notification of Acceptance | August 20 2026 |
-| Camera-Ready Deadline | TBA |
+| Abstract Deadline | TBA (not yet announced as of Oct 2026) |
+| Full Paper Submission | TBA (not yet announced as of Oct 2026) |
+| Notification of Acceptance | TBA (not yet announced as of Oct 2026) |
+| Camera-Ready Deadline | TBA (not yet announced as of Oct 2026) |
+
+*Source: https://listserv.linguistlist.org/pipermail/linguist/2026-March/122870.html (EMNLP 2026 only); no official EMNLP 2027 page found*
 
 ## 📝 Paper Format Requirements
 
@@ -73,4 +75,4 @@ Acceptance rates strictly around 20-25%.
 Focus on strong empirical methodology, dataset evaluations, and robust baselines. EMNLP highly values solid experimental setup.
 
 ---
-*Last updated: September 2026*
+*Last updated: October 2026*
